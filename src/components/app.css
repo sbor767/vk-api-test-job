@@ -1,0 +1,35 @@
+#UserAuthorized {
+    display: inline-block;
+    color: green;
+}
+
+#UserLogout {
+    display: inline-block;
+    margin-left: 10px;
+    color: green;
+}
+
+#UserName {
+    margin-right: auto;
+}
+
+#LoginAuthorize {
+    display: inline-block;
+    color: red;
+}
+
+#LoginAuthorizeButton {
+    display: inline-block;
+    margin-left: 10px;
+    color: red;
+    font-size: 0.9em;
+}
+
+#footer {
+    position: fixed;
+    right: 0; bottom: 0; left: auto;
+    padding: 10px;
+    color: white;
+    float: right;
+    font-size: 0.6em;
+}
